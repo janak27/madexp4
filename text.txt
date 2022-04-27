@@ -1,0 +1,6 @@
+flutter create my_app
+cd my_app
+flutter analyze
+flutter test
+flutter run lib/main.dart
+
